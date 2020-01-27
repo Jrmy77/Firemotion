@@ -1,0 +1,133 @@
+.body
+{
+background-color: #1e3799;  
+margin: 0;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: firebrick;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 5% 214px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #1e3799;
+}
+
+img
+{
+    width: 20%;
+    margin-left: 40%;
+    
+}
+
+.textc
+{
+    font-size: 75px;
+    margin-right: 50%;
+    margin-left: 42%;
+    color: firebrick;
+}
+
+.carre1 {
+ width:22%;
+ height:39%;
+ background:#DCDCDC;
+margin-top: 1%;
+float : left;
+}
+
+.carre2 {
+ width:25%;
+ height:39%;
+ background:#DCDCDC;
+margin-top: 1%;
+float : left;
+margin-left: 1%;
+}
+
+.carre3 {
+ width:25%;
+ height:39%;
+ background:#DCDCDC;
+margin-top: 1%;
+float : left;
+margin-left: 1%;
+}
+
+.carre4 {
+ width:25%;
+ height:39%;
+ background:#DCDCDC;
+margin-top: 1%;
+float : left;
+margin-left: 1%;
+}
+
+.carre5 {
+ width:22%;
+ height:39%;
+ background:#DCDCDC;
+margin-top: 3%;
+float : left;
+}
+
+.carre6 {
+ width:25%;
+ height:39%;
+ background:#DCDCDC;
+margin-top: 3%;
+float : left;
+margin-left: 1%;
+}
+
+.carre7 {
+ width:25%;
+ height:39%;
+ background:#DCDCDC;
+margin-top: 3%;
+float : left;
+margin-left: 1%;
+}
+
+.carre8 {
+ width:25%;
+ height:39%;
+ background:#DCDCDC;
+margin-top: 3%;
+float : left;
+margin-left: 1%;
+}
+
+.imgpdg
+{
+  width: 50%;
+margin-left: 25%;
+}
+
+.imgr
+{
+  width: 42%;
+margin-left: 25%;
+}
+
+.imgre
+{
+  width: 47%;
+margin-left: 25%;
+}
